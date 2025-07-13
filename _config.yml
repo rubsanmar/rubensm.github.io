@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Ruben Sanchez Martin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Curioso como un gato, cabezon como un servidor sin DNS y meticuluso como un hacker con insomnio. Siempre aprendiendo, siempre mejorando" 
+  bio              : "Curioso como un gato, cabezon como un servidor sin DNS y meticuluso como un hacker con insomnio" 
   location         : "Madrid, España"
   email            :
   links:
