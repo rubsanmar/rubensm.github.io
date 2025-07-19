@@ -131,15 +131,15 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+				- label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/rubsanmar"
+        url: "https://github.com/rubsanmar"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-       url: "https://www.linkedin.com/in/ruben-sanchez-martin-a03b47264"
+        url: "https://www.linkedin.com/in/ruben-sanchez-martin-a03b47264"
 
 # Site Footer
 footer:
@@ -164,7 +164,7 @@ footer:
       # url:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-       url: "https://www.linkedin.com/in/ruben-sanchez-martin-a03b47264"
+        url: "https://www.linkedin.com/in/ruben-sanchez-martin-a03b47264"
   since: "2024"
 
 
