@@ -115,7 +115,7 @@ analytics:
 author:
   name             : "Ruben"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "curioso como un gato" #, cabezon como un servidor sin DNS y meticuluso como un hacker con insomnio" 
+  bio              : "curioso, cabezon y meticuloso"
   location         : "Madrid, España"
   email            : "ruben@rubensm.es"
   links:
