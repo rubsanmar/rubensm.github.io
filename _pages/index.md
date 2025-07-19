@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Bienvenido a mi blog personal sobre sistemas, redes, ciberseguridad y tecnología.  
-Soy Ruben, curioso como un gato, cabezoncomo un servidor sin DNS y metodico como un hacker con insomnio.
+Soy Ruben, curioso como un gato, cabezoncomo un servidor sin DNS y meticuloso como un hacker con insomnio.
 Aquí comparto artículos, proyectos y recursos que voy aprendiendo en mi camino profesional.
 
 🔐 Técnico en Sistemas y Ciberseguridad
