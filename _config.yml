@@ -20,8 +20,8 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "rubensm"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Ruben"
-description              : "Personal Website"
+name                     : "Ruben sanchez Martin"
+description              : "Blog personal"
 url                      : "https://rubensm.es" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "rubsanmar/rubensm.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -139,7 +139,7 @@ author:
       # url: "https://instagram.com/"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-        url: "https://www.linkedin.com/in/ruben-sanchez-martin-a03b47264"
+       url: "https://www.linkedin.com/in/ruben-sanchez-martin-a03b47264"
 
 # Site Footer
 footer:
@@ -162,6 +162,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+       url: "https://www.linkedin.com/in/ruben-sanchez-martin-a03b47264"
   since: "2024"
 
 
@@ -329,3 +332,7 @@ defaults:
       share: true
       related: true
       show_date: true
+
+search: true
+lunr:
+  search_within_pages: true
