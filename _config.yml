@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 # Site Settings
 locale                   : "es-ES"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "RubenSM"
+title                    : "rubensm"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ruben"
@@ -113,7 +113,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ruben Sanchez Martin"
+  name             : "Ruben"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Curioso como un gato, cabezon como un servidor sin DNS y meticuluso como un hacker con insomnio" 
   location         : "Madrid, España"
@@ -137,6 +137,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+        url: "https://www.linkedin.com/in/ruben-sanchez-martin-a03b47264"
 
 # Site Footer
 footer:
